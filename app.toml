@@ -1,0 +1,8 @@
+snowsql_config_path = "C:\\Users\\divya\\.snowsql\\config"
+snowsql_connection_name = "sf_config"
+
+[dev]
+database = "OPEN_AI_DB"
+schema = "EMOTION_RECOGNITION"
+role = "SYSADMIN"
+warehouse = "COMPUTE_WH"
