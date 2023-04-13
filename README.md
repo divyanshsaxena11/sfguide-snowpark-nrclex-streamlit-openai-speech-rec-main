@@ -3,7 +3,7 @@
 ## Overview
 In this guide, you will learn how to build audio sentiment recognition in Snowflake using Snowpark for Python,Streamlit, NRCLex and OpenAI – "an application system which can ease the customer satisfaction for various customer support businesses".
 
-## Demo
+## Check out this great use case from #DataSuperhero Divyansh Saxena as he uses Snowpark, Streamlit, NRCLex, and OpenAI to generate transcripts of audio files and conduct sentiment analysis for support. All possible with the Snowflake Data Cloud!
 
 ![Snowflake Data Superhero](thumbnail.jpg)
 
