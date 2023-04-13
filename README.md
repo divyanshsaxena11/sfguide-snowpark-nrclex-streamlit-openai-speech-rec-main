@@ -5,6 +5,6 @@ In this guide, you will learn how to build audio sentiment recognition in Snowfl
 
 ## Demo
 
-[![Snowflake Data Superhero](thumbnail.jpg)]
+![Snowflake Data Superhero](thumbnail.jpg)
 
 For questions and feedback, please reach out to [Divyansh Saxena](https://www.linkedin.com/in/divyanshsaxena/).
